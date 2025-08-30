@@ -1,6 +1,6 @@
 # Rigid Pendulum Behavior Under Driving Frequencies and Sudden Pivot Displacements
 
-### 1.How do you expect the rigid pendulum will respond if the frequency of the drive is much higher or much lower than the natural frequency (ω₀ = sqrt(g / L)) of the pendulum (for small oscillations) and the amplitude is small compared to the size of the pendulum?
+### 1.How do you expect the rigid pendulum will respond if the frequency of the drive is much higher or much lower than the natural frequency $ω₀ = \sqrt{g / L}$ of the pendulum (for small oscillations) and the amplitude is small compared to the size of the pendulum?
 
 - Driving Frequency _Lower_ than Natural Frequency  
 The pendulum follows the driving motion.

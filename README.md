@@ -16,4 +16,5 @@ The displacement angle will **increase**.
 
 The pendulum will fall faster with more energy.  
 
+![github repository](https://github.com/Mattmflores/PHYS3510_ASSIGNMENT1_MARKDOWN?tab=readme-ov-file)
 ![commit history](Images/Commits.png)

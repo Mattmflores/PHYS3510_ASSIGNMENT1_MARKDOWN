@@ -9,8 +9,10 @@ The pendulum will appear motionless.
 
 ## 2.If the pendulum is slightly displaced from equilibrium and the pivot point moves down abruptly, what will happen to the pendulum's displacement angle?
 
-The displacement angle will increase.
+The displacement angle will **increase**.
 
 ## 3.If we start the pendulum oriented above its pivot point, at its unstable equilibrium angle, if the pivot point moves down as the pendulum begins to fall, what is your expectation of the behavior?
 
-The pendulum will fall faster with more energy.
+The pendulum will fall faster with more energy.  
+
+![commit history](https://github.com/Mattmflores/PHYS3510_ASSIGNMENT1_MARKDOWN/commits/main/)
